@@ -1,4 +1,4 @@
-# 🚀 ML-Algorithms
+# 🚀 Machine Learning and Deep Learning Algorithms
 
 Welcome to the Machine Learning Code Repository! This repository contains implementations of various machine learning algorithms and techniques. Feel free to explore and use the code for your own projects.
 
@@ -25,6 +25,10 @@ Welcome to the Machine Learning Code Repository! This repository contains implem
 8. **Text Analytics**: Code for processing and analyzing text data, including natural language processing techniques.
 
 9. **Artificial Neural Network**: Implementation of a basic artificial neural network for deep learning tasks.
+
+10. **Convolutional Neural Network**: Implementation of a basic convolutional Neural Network for deep learning tasks.
+
+11. **Recurrent Neural Network**: Implementation of a basic recurrent Neural Network for deep learning tasks.
 
 ## How to Use
 
